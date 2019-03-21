@@ -6,4 +6,4 @@ class CashRegister
   
 end 
 
-george = Person.new
+new_register = CashRegister.new
