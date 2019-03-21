@@ -1,6 +1,8 @@
 class CashRegister
   
-  def self.new
+  def initialize
+    
+  end
   
 end 
 
