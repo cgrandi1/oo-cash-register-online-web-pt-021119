@@ -8,4 +8,5 @@ class CashRegister
   
 end 
 
-new_register = CashRegister.(total)
+new_register = CashRegister.new(20)
+new_register = CashRegister.new
