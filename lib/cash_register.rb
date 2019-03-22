@@ -8,6 +8,7 @@ class CashRegister
     
   end
   
+  
 end 
 
 new_register = CashRegister.new(20)
