@@ -20,6 +20,11 @@ class CashRegister
       "There is no discount to apply."
     end 
   end 
+  
+  def item(item_array)
+    item_array << title 
+    item_array 
+  end 
 end 
 
 
