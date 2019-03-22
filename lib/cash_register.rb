@@ -12,3 +12,5 @@ end
 
 new_register = CashRegister.new(20)
 new_register = CashRegister.new
+
+CashRegister.something #=> class methods
